@@ -1,3 +1,5 @@
+![Header](https://github.com/sarpanchkomal/sarpanchkomal/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Komal Sarpanch</h1>
 <h3 align="center">A passionate Web developer & Blogger from Punjab, India</h3>
 
